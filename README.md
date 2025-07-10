@@ -1,5 +1,5 @@
 # Nova Times
-
+# VERSION 0.1 SCRATCH ARCHIVED 07/10/2025
 Measuring Nova decay times.
 
 
